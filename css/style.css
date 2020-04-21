@@ -4,10 +4,10 @@
 	box-sizing: border-box;
 }
 body {
-	font-family: 'Alice', serif;
+    font-family: 'Source Sans Pro', sans-serif;
 	line-height: 1.5;
 	color: #000;
-	background-color: #ceede1;
+	background-color: #ffffff;
 }
 /*Base Layout Styles*/
 /* ---- Navigation ---- */
