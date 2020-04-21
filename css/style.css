@@ -1,0 +1,12 @@
+  
+ /* Base Element Styles */
+ * {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Alice', serif;
+	line-height: 1.5;
+	color: #000;
+	background-color: #ceede1;
+}
+/*Base Layout Styles*/
