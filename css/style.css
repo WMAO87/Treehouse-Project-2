@@ -37,3 +37,36 @@ body {
 	color: #000;
 }
 /* ---- Layout Containers ---- */
+h2,h3 {
+	text-align: center;
+}
+p.introduction {
+	text-align: justify;
+	padding: 2%;
+    color:dimgrey;
+    
+}
+.portfolio {
+	background: #fff;
+	display: inline-block;
+}
+.portfolio-title {
+	text-align: center;
+}
+
+.p {
+    
+    text-align: justify;
+    
+    
+}
+p.contact {
+	text-align: justify;
+    padding:10%;
+}
+p.phone {
+	text-align: center;
+}
+p.e-mail {
+	text-align: center;
+}   
